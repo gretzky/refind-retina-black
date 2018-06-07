@@ -6,6 +6,8 @@ Minimalist rEFInd theme based off [rEFInd-minimal](https://github.com/EvanPurkhi
 
 # installation + usage
 
+**macOS**
+
 1. [install rEFInd](https://sourceforge.net/projects/refind/)
 2. unzip and run `./refind-install`
 3. verify it works by restarting, you should be brought to the rEFInd menu
